@@ -1,6 +1,4 @@
 # Courier
 24 Hour Delivery Service
 
-price blaaa blaa
-
-yo guys
+Read Me
